@@ -283,7 +283,7 @@ Key namespaces: `auth.*`, `onboarding.*`, `home.*`, `network.*`, `discover.*`, `
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/R3tr003/Endeavor-Antigravity.git
+git clone https://github.com/R3tr003/Endeavor_IOS.git
 cd "Endeavor-Antigravity"
 ```
 
